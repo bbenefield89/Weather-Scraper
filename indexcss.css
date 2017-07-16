@@ -1,0 +1,21 @@
+.container-fluid {
+	margin-top: 12%;
+	background-color: none;
+}
+
+h1 {
+    margin-left: 100px;
+}
+
+#bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	z-index: 98;
+}
+
+* {
+	z-index: 99;
+}
